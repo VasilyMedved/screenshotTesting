@@ -1,0 +1,17 @@
+{
+  "name": "azyan_ui_regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "debug": "set NODE_ENV=debug& npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "puppeteer": "^1.9.0",
+    "puppeteer-screenshot-tester": "^1.0.4"
+  }
+}
